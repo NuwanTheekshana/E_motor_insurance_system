@@ -1,0 +1,29 @@
+.login-background {
+    background-image: url('../img/background.avif');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .card {
+    border-color: #007bff;
+  }
+  
+  .text-primary {
+    color: #007bff !important; 
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+  }
+  
